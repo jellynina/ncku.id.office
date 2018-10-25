@@ -3,9 +3,9 @@
 只是個想要值班好過點的菸酒生試圖做一個管理系統，工作日辦公室值班工讀生管理教室與設備借用。
 As a PT in department office, I am trying to make daily routine more friendly.
 
-目前整理出來的資訊在[g-drive](https://drive.google.com/drive/folders/0ABbdssp7holFUk9PVA)
+目前整理出來的資訊在[g-drive](https://drive.google.com/drive/folders/0ABbdssp7holFUk9PVA) **invited only**
 
-## User Story
+## 
 
 PT sutudents in the office manage the classrooms keys and other equipments. TA students need to go to PT for access the keys and equipments for ID department's courses. We use paper forms and sticky notes for tracking the status of the objuects.
 
@@ -22,6 +22,7 @@ If PT or TA doesn't follow the protocol to documet or return the objects correct
 
 ---
 
-# Pending
+# Issue Founded
 
-- 研究新生獎助學金學生懶人包
+- PT and TA之間的資訊傳達同步
+- 非課程使用之空間借用的資訊同步
